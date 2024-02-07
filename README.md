@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="990" height="280" src="https://github.com/visionthex/cookiemonster/blob/main/img/giphy.gif" alt="Monster Image">
+</p>
+
 # Cookie Monster
 
 # Express Cookie Example
